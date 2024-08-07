@@ -1,1 +1,1 @@
-# Drum-Kit-main
+Click on the Drum box to release sound.
